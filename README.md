@@ -116,8 +116,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahahamdy02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://raw.githubusercontent.com/tahahamdy02/tahahamdy02/output/snake.svg" alt="Snake animation" />
-
-###
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
