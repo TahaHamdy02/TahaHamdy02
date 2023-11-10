@@ -16,11 +16,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tahahamdy02.tahahamdy02&left_color=purple&right_color=blueviolet"  />
-</div>
 
-###
 
 <h1 align="center">hey there 👋</h1>
 
